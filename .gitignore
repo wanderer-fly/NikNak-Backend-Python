@@ -1,0 +1,4 @@
+.env
+.venv/
+BACKEND_PLAN.md
+__pycache__/

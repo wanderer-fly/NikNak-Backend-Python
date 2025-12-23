@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+pymongo
+colorlog
+pyjwt
+passlib[bcrypt]
+email-validator
